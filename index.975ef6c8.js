@@ -27263,6 +27263,7 @@ const About = ()=>{
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                        id: "links",
                         style: {
                             padding: "1rem 3rem 0"
                         },
