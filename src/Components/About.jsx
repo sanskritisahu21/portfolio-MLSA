@@ -10,33 +10,31 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/workspace-1280538_1280.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Background image of Laptop ";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Computer Science student studying at Lakshmi Narain College of Technology & Science. My academic journey has fueled my passion for technology.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Programming Language - C++ | C",
+  "Tools - Postman| Git & GitHub| Visual Studio code| Figma| Canva",
+  "Fundamentals - Data Structure and Algorithm| Object Oriented Programming",
+  "Soft skills - Communication| Leadership| Critical Thinking| Problem Solving",
 ];
 
 /**
@@ -45,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Software Development experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (

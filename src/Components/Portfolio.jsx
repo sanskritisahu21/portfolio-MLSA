@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer-1185626_1280.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with girl and laptop";
 
 /**
  * Project list
@@ -31,28 +31,32 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "File-Compression-Tool",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A file compression project crafted in C++, seamlessly reducing file sizes without compromising data integrity. Dive into optimized storage and faster transfers with this elegant solution.",
+    url: "https://github.com/sanskritisahu21/File-Compression-Tool",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Sorting-Visualizer",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Sorting algorithms with Sorting Visualizer—a C++ project using SDL2, With Selection, Insertion, Bubble, Merge, Quick, and Heap Sorts.",
+    url: "https://github.com/sanskritisahu21/Sorting-Visualizer",
   },
   {
-    title: "My Resume Site",
+    title: "Weather-Application",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A simple console-based Weather App developed in C++ that fetches real-time weather information using the OpenWeatherMap API.",
+    url: "https://github.com/sanskritisahu21/Weather-Application",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Project-Medleaf",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created UX/UI design for Mid-Leaf mobile application. Designed for educational purpose for cognitive- disordered children. Who face challenges in traditional learning environments.",
+    url: "https://www.figma.com/proto/Q6uZRLYQjLyte26iqND99K/Signup-and-Login-(Community)?type=design&node-id=103-356&t=wATtB0Ry7lCVR17n-1&scaling=min-zoom&page-id=103%3A2&starting-point-node-id=103%3A356",
+  },
+  {
+    title: "Open Source",
+    url: "https://github.com/sanskritisahu21/Openpedia",
   },
 ];
 
