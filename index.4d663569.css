@@ -66,18 +66,15 @@ h3 {
   font-weight: 400;
 }
 
-#links {
+p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  display: flex;
-}
-
-p {
   margin-bottom: 0;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.5;
+  display: flex;
 }
 
 p.large {
