@@ -27094,7 +27094,7 @@ var _stylesCss = require("./styles.css");
     linkedIn: "https://www.linkedin.com/in/sanskriti-sahu-273466248",
     twitter: "https://twitter.com/Sanskritii_21"
 };
-const primaryColor = "#FFFFFF";
+const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
 const App = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
