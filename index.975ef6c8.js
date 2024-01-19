@@ -28650,6 +28650,7 @@ const Home = ({ name , title  })=>{
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
+                        id: "developer",
                         children: title
                     }, void 0, false, {
                         fileName: "src/Components/Home.jsx",
