@@ -61,7 +61,7 @@ const projectList = [
   },
   {
     title: "Open Source-IRIS-Smart-Tutor",
-    description: "Changed 'Course' section with the help of HTML ans CSS",
+    description: "Changed 'Course' section with the help of HTML and CSS",
     url: "https://github.com/sanskritisahu21/IRIS-Smart-Tutor",
   },
 ];
