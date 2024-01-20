@@ -25,7 +25,7 @@ const imageAltText = "Background image of Laptop ";
  */
 const description =
   "I'm a Computer Science student studying at Lakshmi Narain College of Technology & Science. My academic journey has fueled my passion for technology.";
-//sanskriti
+
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
