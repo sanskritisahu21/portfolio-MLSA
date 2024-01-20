@@ -55,14 +55,8 @@ const projectList = [
     url: "https://www.figma.com/proto/Q6uZRLYQjLyte26iqND99K/Signup-and-Login-(Community)?type=design&node-id=103-356&t=wATtB0Ry7lCVR17n-1&scaling=min-zoom&page-id=103%3A2&starting-point-node-id=103%3A356",
   },
   {
-    title: "Open Source-Openpedia",
-    description: "Changed 'About' section in Landing Page",
+    title: "Open Source",
     url: "https://github.com/sanskritisahu21/Openpedia",
-  },
-  {
-    title: "Open Source-IRIS-Smart-Tutor",
-    description: "Changed 'Course' section with the help of HTML ans CSS",
-    url: "https://github.com/sanskritisahu21/IRIS-Smart-Tutor",
   },
 ];
 
